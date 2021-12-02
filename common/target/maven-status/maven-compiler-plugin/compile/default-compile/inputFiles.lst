@@ -1,0 +1,3 @@
+/Users/lance/workspace/mqdemo/common/src/main/java/com/example/mqdemo/common/config/DirectRabbitConfig.java
+/Users/lance/workspace/mqdemo/common/src/main/java/com/example/mqdemo/common/config/TopicRabbitConfig.java
+/Users/lance/workspace/mqdemo/common/src/main/java/com/example/mqdemo/common/config/FanoutRabbitConfig.java

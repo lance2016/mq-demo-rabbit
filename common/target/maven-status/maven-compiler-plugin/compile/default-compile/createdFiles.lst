@@ -1,0 +1,3 @@
+com/example/mqdemo/common/config/FanoutRabbitConfig.class
+com/example/mqdemo/common/config/DirectRabbitConfig.class
+com/example/mqdemo/common/config/TopicRabbitConfig.class
